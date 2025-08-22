@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Case One", "description": "First case description" },
+  { "id": 2, "name": "Case Two", "description": "Second case description" },
+  { "id": 3, "name": "Case Three", "description": "Third case description" }
+]
+
